@@ -26,7 +26,7 @@ Laravel basic multi authentication of user and admin.
 4.php artisan serve</br>
 
 ## Now Run in your browser
-[User Login URL](http://127.0.0.1:8000/)</br>
+[User Login URL](http://127.0.0.1:8000/login)</br>
 	Email : user@user.com</br>
 	Password : 123456</br>
 
