@@ -20,16 +20,16 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 Laravel basic multi authentication of user and admin.
 
 ## Follow Below steps
-1.composer install
-2.php artisan migrate
-3.php artisan db:seed --class=BasicSeed
-4.php artisan serve
+1.composer install</br>
+2.php artisan migrate</br>
+3.php artisan db:seed --class=BasicSeed</br>
+4.php artisan serve</br>
 
 ## Now Run in your browser
-[User Login URL](http://127.0.0.1:8000/)
-	Email : user@user.com
-	Password : 123456
+[User Login URL](http://127.0.0.1:8000/)</br>
+	Email : user@user.com</br>
+	Password : 123456</br>
 
-[Admin Login URL](http://127.0.0.1:8000/admin/login)
-	Email : admin@admin.com
-	Password : 123456
+[Admin Login URL](http://127.0.0.1:8000/admin/login)</br>
+	Email : admin@admin.com</br>
+	Password : 123456</br>
